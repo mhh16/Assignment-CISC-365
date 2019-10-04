@@ -139,7 +139,7 @@ plt.legend()
 # naming the x axis
 plt.xlabel('Sets')
 # naming the y axis
-plt.ylabel('Operations')
+plt.ylabel('Number of Operations')
 
 # giving a title to my graph
 plt.title('Subset Sum algorithm analysis')
